@@ -44,11 +44,11 @@ Add the following styles to the article element with the class name card-two:
  ![Image of card two](images/card-two.png)
 
 ### Card 3:
-Recreate the card below. Try to use similar fonts (Google Fonts), colours, image, alignment and spacing. You can source an image from a website such as https://www.unsplash.com or https://www.pexels.com (any image of a lion or wolf with work). Be as exact as you can with your styling, pixel-perfect if possible.<br />
+Recreate the card below. Try to use similar fonts (Google Fonts), colours, image, alignment and spacing. You can source an image from a website such as https://www.unsplash.com or https://www.pexels.com (any image of a landscape will work). Be as exact as you can with your styling, pixel-perfect if possible.<br />
 ![Image of card three](images/card-three.png)
 
 ### Card 4:
-Recreate the card below. Try to use similar fonts (Google Fonts), colours, image, alignment and spacing. You can source an image from a website such as https://www.unsplash.com or https://www.pexels.com. Be as exact as you can with your styling, pixel-perfect if possible. Note that the small text above the headline are not buttons.<br />
+Recreate the card below. Try to use similar fonts (Google Fonts), colours, alignment and spacing. Use the file called yellow-background.png in the images folder. Be as exact as you can with your styling, pixel-perfect if possible. Note that the small text above the headline is not a button.<br />
 ![Image of card four](images/card-four.png)
 
 ### Format, organize and add comments 
