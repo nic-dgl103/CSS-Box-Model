@@ -1,7 +1,7 @@
 # Exercise 5
 
 ## Objectives
-ractice working with the CSS box model to create some typical web card layouts.
+Practice working with the CSS box model to create some typical card layouts.
 
 ## Instructions
 Remember to:
