@@ -13,8 +13,10 @@ Remember to:
 ```
 <!-- DGL 103 CVS1 - your name - Exercise 5 -->
 ```
+Note: You don't need to edit any of the provided HTML content to complete this exercise. You may need to add links to Google Fonts in the head element.
 ### Card 1:
 In VS Code, add the following styles to the article element with the class name card-one:
+   * Use the Google Font called Poppins and use the rem unit to define all your fonts sizes.
    * Make the image round by using the border-radius property.
    * Give the card a background colour of `hsl(0, 0%, 100%)`.
    * Make the width of the card 500px.
@@ -28,27 +30,24 @@ In VS Code, add the following styles to the article element with the class name 
 
 ### Card 2:
 Add the following styles to the article element with the class name card-two:
-   * Give the card a background colour of `hsl(234, 12%, 34%)`.
    * Give the card the same margin and padding as card one.
    * Change the width of card so that it matches the visual width of card one.
    * Round the corners of the card by a 30px radius.
    * Make the card's h2 and p elements white;
-   * Play with background properties:
-      * Using the background CSS property, add a gradient to the card's background. Go to https://cssgradient.io/ to create a gradient that you like.
-      * Give the card a background image that uses the elephant image available in the images folder (the background image will hide the gradient).
-      * Try out different background-size values until you find one that you like: https://developer.mozilla.org/en-US/docs/Web/CSS/background-size.
-      * Combine your gradient with the image by copying and pasting the gradient in front of the image url - don't forget the comma in between the two. <br/>
+   * Add a gradient and image using the background-image property:
+      * Add a gradient to the card's background. Go to https://cssgradient.io/ to create a gradient that you like.
+      * Combine your gradient with a background image: Use the elephant image available in the images folder add it to the background-image property after the gradient - don't forget the comma in between the two. <br/>
       Ex: `background-image: linear-gradient(356deg, rgba(34,193,195,1) 0%, rgba(253,187,45,0.022846638655462215) 100%), url('images/elephants.jpeg');`
-   * Just for fun, see what happens when you apply `filter: grayscale(100%);` to the card so that the whole card becomes grayscale.
- When you are finished, but before the grayscale filter, the card should look like this: <br />
+      * Try out different background-size values until you find one that fits the provided example: https://developer.mozilla.org/en-US/docs/Web/CSS/background-size.
+ When you are finished, the card should look like this: <br />
  ![Image of card two](images/card-two.png)
 
 ### Card 3:
-Recreate the card below. Try to use similar fonts (Google Fonts), colours, image, alignment and spacing. You can source an image from a website such as https://www.unsplash.com or https://www.pexels.com (any image of a landscape will work). Be as exact as you can with your styling, pixel-perfect if possible.<br />
+Add the styles to the article element with the class name card-three. The background image is provided in the images folder. The Google fonts are Poppins and Roboto Condensed. Be as exact as you can with your styling, pixel-perfect if possible.<br />
 ![Image of card three](images/card-three.png)
 
 ### Card 4:
-Recreate the card below. Try to use similar fonts (Google Fonts), colours, alignment and spacing. Use the file called yellow-background.png in the images folder. Be as exact as you can with your styling, pixel-perfect if possible. Note that the small text above the headline is not a button.<br />
+Add the styles to the article element with the class name card-four. The visual width should be the same as card three. The background image is provided in the images folder. The Google fonts are Poppins and Roboto Condensed. Be as exact as you can with your styling, pixel-perfect if possible. Note that the small text above the headline is not a button.<br />
 ![Image of card four](images/card-four.png)
 
 ### Format, organize and add comments 
