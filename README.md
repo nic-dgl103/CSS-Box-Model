@@ -40,7 +40,7 @@ Add the styles to the article element with the class name card-four. The visual 
 ![Image of card four](images/card-four.png)
 
 ### Card 4:
-Design and code your own card. Read the best practices in this article to inform your design: https://uxplanet.org/ultimate-guide-for-designing-ui-cards-59488a91b44f. Both the design and the coding are graded. Your card needs to include:
+Design and code your own card. Read the best practices in this article to inform your design: https://uxplanet.org/ultimate-guide-for-designing-ui-cards-59488a91b44f (a PDF of the article is included in this repo). Both the design and the coding are graded. Your card needs to include:
 * An image
 * A heading
 * A description
