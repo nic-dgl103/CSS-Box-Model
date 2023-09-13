@@ -1,4 +1,4 @@
-# Exercise 5
+# Exercise 5: CSS Box Model
 
 ## Objectives
 Practice working with the CSS box model to create some typical card layouts.
