@@ -10,9 +10,9 @@ Remember to:
 
 ## Step 1: Get set up
 * Clone your remote exercise repository onto your local machine.
-* Add a comment in the head element of the homepage including: the course code and your section number - your name - Exercise 5. Example:
+* Add a comment in the head element of the homepage including: the course code and your section number - your name - CSS Box Model . Example:
 ```
-<!-- DGL 103 CVS1 - your name - Exercise 5 -->
+<!-- DGL 103 CVS1 - your name - CSS Box Model -->
 ```
 Note: You don't need to edit any of the provided HTML content to complete this exercise. You may need to add links to Google Fonts in the head element.
 
