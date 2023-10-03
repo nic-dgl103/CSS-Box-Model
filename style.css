@@ -14,13 +14,12 @@ h2 {
 p {
   color: hsl(229, 6%, 66%);
 }
+
+
+/*-------- CARD ONE ---------*/
+
 /*-------- CARD TWO ---------*/
-.card-two {
-  box-sizing: border-box;
-  width: 500px;
-}
 
 /*-------- CARD THREE ---------*/
-.card-three {
-  width: 350px;
-}
+
+/*-------- CARD FOUR ---------*/

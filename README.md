@@ -32,12 +32,12 @@ In VS Code, add the following styles to the article element with the class name 
  ![Image of card one](images/card-one.png)
 
 ### Card 2:
-Add the styles to the article element with the class name card-three. The background image is provided in the images folder. The Google fonts are Poppins and Roboto Condensed. Be as exact as you can with your styling, pixel-perfect if possible.<br />
-![Image of card three](images/card-three.png)
+Write the HTML and the CSS. The background image is provided in the images folder. The Google fonts are Poppins and Roboto Condensed. Be as exact as you can with your styling, pixel-perfect if possible.<br />
+![Image of card two](images/card-two.png)
 
 ### Card 3:
-Add the styles to the article element with the class name card-four. The visual width should be the same as card three. The background image is provided in the images folder. The Google fonts are Poppins and Roboto Condensed. Be as exact as you can with your styling, pixel-perfect if possible. Note that the small text above the headline is not a button.<br />
-![Image of card four](images/card-four.png)
+Write the HTML and the CSS. The visual width should be the same as card two. The background image is provided in the images folder. The Google fonts are Poppins and Roboto Condensed. Be as exact as you can with your styling, pixel-perfect if possible. Note that the small text above the headline is not a button.<br />
+![Image of card three](images/card-three.png)
 
 ### Card 4:
 Design and code your own card. Read the best practices in this article to inform your design: https://uxplanet.org/ultimate-guide-for-designing-ui-cards-59488a91b44f (a PDF of the article is included in this repo). Both the design and the coding are graded. Your card needs to include:
