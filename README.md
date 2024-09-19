@@ -10,15 +10,12 @@ Remember to:
 
 ## Step 1: Get set up
 * Clone your remote exercise repository onto your local machine.
-* Add a comment in the head element of the homepage including: the course code and your section number - your name - CSS Box Model . Example:
-```
-<!-- DGL 103 CVS1 - your name - CSS Box Model -->
-```
-Note: You don't need to edit any of the provided HTML content to complete this exercise. You may need to add links to Google Fonts in the head element.
 
 ## Step 2: Code the following 4 cards
+* You don't need to edit any of the provided HTML content to complete this exercise. You may need to add links to Google Fonts in the head element.
+* All styles should be placed in the external stylesheet.
 ### Card 1:
-In VS Code, add the following styles to the article element with the class name card-one:
+In VS Code, replace the image and the text with a photo of yourself and your details. Then add the following CSS styles to the article element with the class name card-one:
    * Use the Google Font called Poppins and use the rem unit to define all your fonts sizes.
    * Make the image round by using the border-radius property.
    * Give the card a background colour of `hsl(0, 0%, 100%)`.
@@ -32,11 +29,11 @@ In VS Code, add the following styles to the article element with the class name 
  ![Image of card one](images/card-one.png)
 
 ### Card 2:
-Write the HTML and the CSS. The background image is provided in the images folder. The Google fonts are Poppins and Roboto Condensed. Be as exact as you can with your styling, pixel-perfect if possible.<br />
+The HTML is provided. Write the CSS. The background image is provided in the images folder. The Google fonts are Poppins and Roboto Condensed. Be as exact as you can with your styling, pixel-perfect if possible.<br />
 ![Image of card two](images/card-two.png)
 
 ### Card 3:
-Write the HTML and the CSS. The visual width should be the same as card two. The background image is provided in the images folder. The Google fonts are Poppins and Roboto Condensed. Be as exact as you can with your styling, pixel-perfect if possible. Note that the small text above the headline is not a button.<br />
+Write the HTML and the CSS. The visual width of the card should be the same as card two. Try to use similar fonts (Google Fonts). You can source a similar image from a website such as https://www.unsplash.com or https://www.pexels.com. Note that the small text above the headline is not links or buttons (you're not meant to be able to click on them). <br />
 ![Image of card three](images/card-three.png)
 
 ### Card 4:
