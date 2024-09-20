@@ -26,6 +26,8 @@ Remember to:
      * Give the card 30px of padding on all four sides so that the content doesn't touch the edges of the card.
      * Round the corners of the card by a 5px radius.
      * Give the card a top border that is 3px thick, solid in style and of the color `hsl(180, 62%, 55%)`.
+     * Change the colour of the h2 to `hsl(234, 12%, 34%)` and make the text bolder.
+     * Change hte colour of the p to `hsl(229, 6%, 66%)`.
      * Give the card a shadow. Go to https://getcssscan.com/css-box-shadow-examples to find a pleasing shadow.
  
  When you are finished the card should look like this: <br />
