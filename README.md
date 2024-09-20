@@ -15,16 +15,19 @@ Remember to:
 * You don't need to edit any of the provided HTML content to complete this exercise. You may need to add links to Google Fonts in the head element.
 * All styles should be placed in the external stylesheet.
 ### Card 1:
-In VS Code, replace the image and the text with a photo of yourself and your details. Then add the following CSS styles to the article element with the class name card-one:
-   * Use the Google Font called Poppins and use the rem unit to define all your fonts sizes.
-   * Make the image round by using the border-radius property.
-   * Give the card a background colour of `hsl(0, 0%, 100%)`.
-   * Make the width of the card 500px.
-   * Give the card a 50px margin on all four sides so that it isn't so close to the browser window's edges.
-   * Give the card 30px of padding on all four sides so that the content doesn't touch the edges of the card.
-   * Round the corners of the card by a 5px radius.
-   * Give the card a top border that is 3px thick, solid in style and of the color `hsl(180, 62%, 55%)`.
-   * Give the card a shadow. Go to https://getcssscan.com/css-box-shadow-examples to find a pleasing shadow.
+   * In VS Code, replace the image and the text with a photo of yourself and your details. 
+   * Apply the Google Font called Poppins to the body element. 
+   * Apply the 62.5% trick so that you can easily use the rem unit to define all your font sizes.
+   * Then add the following CSS styles to the article element with the class name card-one:
+     * Make the image round by using the border-radius property.
+     * Give the card a background colour of `hsl(0, 0%, 100%)`.
+     * Make the width of the card 500px.
+     * Give the card a 50px margin on all four sides so that it isn't so close to the browser window's edges.
+     * Give the card 30px of padding on all four sides so that the content doesn't touch the edges of the card.
+     * Round the corners of the card by a 5px radius.
+     * Give the card a top border that is 3px thick, solid in style and of the color `hsl(180, 62%, 55%)`.
+     * Give the card a shadow. Go to https://getcssscan.com/css-box-shadow-examples to find a pleasing shadow.
+ 
  When you are finished the card should look like this: <br />
  ![Image of card one](images/card-one.png)
 
