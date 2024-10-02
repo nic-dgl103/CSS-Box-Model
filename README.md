@@ -34,7 +34,7 @@ Remember to:
  ![Image of card one](images/card-one.png)
 
 ### Card 2:
-The HTML is provided. Write the CSS. The background image is provided in the images folder. The Google fonts are Poppins and Roboto Condensed. Be as exact as you can with your styling, pixel-perfect if possible.<br />
+The HTML is provided. Write the CSS. The background image is provided in the images folder. You can use Poppins and Fira Sans Condensed for the Google fonts (they are both static fonts). Be as exact as you can with your styling, pixel-perfect if possible.<br />
 ![Image of card two](images/card-two.png)
 
 ### Card 3:
